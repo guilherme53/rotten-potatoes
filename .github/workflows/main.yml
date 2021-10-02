@@ -39,7 +39,7 @@ jobs:
         with:
           method: kubeconfig
           kubeconfig: ${{ secrets.K8S_KUBECONFIG }}
-  with:
+  
     
 
         
